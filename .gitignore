@@ -1,0 +1,5 @@
+/darknet
+*.txt
+*.sh
+get-pip.py
+yolov4.weights
